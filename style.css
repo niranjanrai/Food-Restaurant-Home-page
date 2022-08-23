@@ -1,3 +1,7 @@
+/* ----------------------- 
+<!-- CSS RESET  -->
+ -----------------------  */
+
 * {
   margin: 0;
   padding: 0;
@@ -23,6 +27,7 @@ body {
   position: relative;
 }
 
+/* Container */
 .container {
   max-width: 120rem;
   margin: auto;
